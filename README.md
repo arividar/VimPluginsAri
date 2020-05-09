@@ -6,7 +6,7 @@ git subtree add --prefix ari/start/nerdtree https://github.com/preservim/nerdtre
 git subtree add --prefix ari/start/gruvbox https://github.com/morhetz/gruvbox.git master --squash
 git subtree add --prefix ari/start/vim-prettier https://github.com/prettier/vim-prettier master --squash
 ```
-### Ctags for NerdTree:
+### Tags for NerdTree:
 ```
 vim -u NONE -c "helptags ~/.vim/pack/ari/start/nerdtree/doc" -c q
 ```
