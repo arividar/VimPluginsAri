@@ -1,5 +1,5 @@
 # vimplugins 
-## create subtrees
+## Create git subtrees
 ```
 git subtree add --prefix ari/start/vim-polyglog https://github.com/sheerun/vim-polyglot master --squash
 git subtree add --prefix ari/start/nerdtree https://github.com/preservim/nerdtree.git master --squash
