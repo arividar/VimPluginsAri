@@ -1,4 +1,6 @@
-# vimplugins 
+# vimplugins
+Git repo with my vim plugins as git subtrees.
+
 ## Create git subtrees
 ```
 git subtree add --prefix ari/start/vim-polyglog https://github.com/sheerun/vim-polyglot master --squash
