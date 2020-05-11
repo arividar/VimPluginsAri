@@ -18,7 +18,7 @@ git subtree add --prefix ari/start/vim-prettier https://github.com/prettier/vim-
 * git subtree add --prefix ari/start/nerdtree https://github.com/preservim/nerdtree.git master --squash
 * git subtree add --prefix ari/start/gruvbox https://github.com/morhetz/gruvbox.git master --squash
 * git subtree add --prefix ari/start/vim-prettier https://github.com/prettier/vim-prettier master --squash
-* git subtree add --prefix ar/start/vim-jsonc https://github.com/kevinoid/vim-jsonc.git master --squash
+* git subtree add --prefix ari/start/vim-jsonc https://github.com/kevinoid/vim-jsonc.git master --squash
 
 ### For NerdTree:
 * vim -u NONE -c "helptags ~/.vim/pack/ari/start/nerdtree/doc" -c q
