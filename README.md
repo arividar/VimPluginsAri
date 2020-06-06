@@ -1,4 +1,4 @@
-# vimplugins
+# VimPluginsAri
 Git repo with my vim plugins as git subtrees.
 
 ## Create git subtrees
@@ -8,6 +8,8 @@ git subtree add --prefix ari/start/vim-jsonc https://github.com/kevinoid/vim-jso
 git subtree add --prefix ari/start/nerdtree https://github.com/preservim/nerdtree.git master --squash
 git subtree add --prefix ari/start/gruvbox https://github.com/morhetz/gruvbox.git master --squash
 git subtree add --prefix ari/start/vim-prettier https://github.com/prettier/vim-prettier master --squash
+git subtree add --prefix ari/start/vim-airline https://github.com/vim-airline/vim-airline.git master --squash
+git subtree add --prefix ari/start/vim-airline-themes https://github.com/vim-airline/vim-airline-themes.git master --squash
 ```
 ## About git subtrees:
 * http://endot.org/2011/05/18/git-submodules-vs-subtrees-for-vim-plugins/
