@@ -10,7 +10,7 @@ git subtree add --prefix start/gruvbox https://github.com/morhetz/gruvbox.git ma
 git subtree add --prefix start/vim-prettier https://github.com/prettier/vim-prettier master --squash
 git subtree add --prefix start/vim-airline https://github.com/vim-airline/vim-airline.git master --squash
 git subtree add --prefix start/vim-airline-themes https://github.com/vim-airline/vim-airline-themes.git master --squash
-git subtree add --prefix start/vim-gitgutter https://github.com/airblade/vim-gitgutter.git  master --squash
+git subtree add --prefix start/vim-gitgutter https://github.com/airblade/vim-gitgutter.git master --squash
 ```
 ## About git subtrees:
 * http://endot.org/2011/05/18/git-submodules-vs-subtrees-for-vim-plugins/
