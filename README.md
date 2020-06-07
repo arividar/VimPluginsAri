@@ -22,4 +22,3 @@ git subtree add --prefix start/vim-gitgutter https://github.com/airblade/vim-git
 vim -u NONE -c "helptags ~/.vim/pack/ari/start/nerdtree/doc" -c q
 vim -u NONE -c "helptags vim-gitgutter/doc" -c q
 ```
-=======
