@@ -17,6 +17,9 @@ git subtree add --prefix start/vim-gitgutter https://github.com/airblade/vim-git
 * https://codewinsarguments.co/2016/05/01/git-submodules-vs-git-subtrees/
 * https://blog.developer.atlassian.com/the-power-of-git-subtree/
 
-### For NerdTree:
-* vim -u NONE -c "helptags ~/.vim/pack/ari/start/nerdtree/doc" -c q
+### Help tags:
+```
+vim -u NONE -c "helptags ~/.vim/pack/ari/start/nerdtree/doc" -c q
+vim -u NONE -c "helptags vim-gitgutter/doc" -c q
+```
 =======
